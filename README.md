@@ -1,50 +1,28 @@
+<img align="center" style="margin-bottom:40px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/RodriguesGabe/RodriguesGabe/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+<div align="center">
 
-<p align="center"> ❤️  <br>&nbsp;
+# Hey, I'm Gabe, a passionate DevOps & SRE Engineer!
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RodriguesGabe&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-RodriguesGabe.vercel.app/api/top-langs/?username=RodriguesGabe&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriella-analista-cloud/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@GabesEnergeia"><img src="https://img.shields.io/badge/-My%20YT%20Channel-D62422?style=flat-square&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:cybergabe01@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
+</div>
 
+---
 
-## My Skills
+## About Me
 
-#### Main Stack:
+Engenheira de Confiabilidade de Sites (SRE) e Cloud Engineer com sólida vivência em ambientes de alta criticidade na AWS, Kubernetes e automação de infraestrutura. Especialista em observabilidade em múltiplas camadas (Dynatrace, New Relic), otimização de custos (FinOps) e engenharia de software voltada para confiabilidade.
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+* **Na NTT DATA:** Monitoro portais, totens, saúde dos pods, banco de dados e sistemas integrados utilizando Dynatrace, New Relic e Azure, fazendo diagnóstico de incidentes pós-deploy, documentação da causa e propondo correções via change ou encaminhando chamados para a equipe responsável. Também automatizo rotinas com Python (integração API → Teams para envio de status de aplicações).
+* **Como estagiária de SRE/DevOps na Bidweb Security IT:** Projetei na AWS soluções de infraestrutura como código (Terraform e CloudFormation), pipelines de CI/CD, dashboards de segurança no OpenSearch, notificações com Lambda e automação para eliminação de recursos de teste órfãos (redução de custos).
+* **Formação & Negócios:** Tecnóloga em Sistemas para Internet (UNICAP), bolsista pelo Embarque Digital (Prefeitura do Recife e Porto Digital, selecionada entre 1.800 candidatos). Coofundei a *Cube Car* (startup de mobilidade no Porto Digital), desenvolvendo forte visão de negócios, negociação com parceiros e entrega de MVP.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Studying in this moment:
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-
-#### Databases:
-
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-
-&nbsp;
-&nbsp;
+---
 
 ## 📜 Certificações & Credenciais
 
@@ -65,14 +43,60 @@
   </a>
 </p>
 
-## Contacts:
+---
 
-<div> 
-<a href="https://br.linkedin.com/in/gabriella-analista-cloud" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://medium.com/@RodriguesGabe" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
+## 🛠️ Tech Stack & Skills
 
-  
-  
+#### Cloud, DevOps & SRE:
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
+
+#### Languages & Datastores:
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
+
+#### Observability & Tools:
+![New Relic](https://img.shields.io/badge/New_Relic-1800FF?style=for-the-badge&logo=new-relic&logoColor=white)&nbsp;
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+
+---
+
+## 🚀 GitHub Stats
+
+<div align="center" style="margin-bottom:30px">
+  <img width=48% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RodriguesGabe&theme=radical&mode=weekly" />
+  <img width=48% align="center" src="https://github-readme-stats-git-main-RodriguesGabe.vercel.app/api/top-langs/?username=RodriguesGabe&show_icons=true&theme=radical&layout=compact" />
+</div>
+
+<div align="center">
+  <img width=80% src="https://github-readme-stats.vercel.app/api?username=RodriguesGabe&show_icons=true&theme=dracula" />
+</div>
+
+---
+
+## 📚 What will you find here?
+
+This GitHub is more than just a code repository — it's a reflection of my journey, experiences, and commitment to learning. Here's what you'll find:
+- Real-world cloud infrastructure and automation scripts
+- Clean Architecture and robust automation practices
+- Experiments, technical studies, and production-ready patterns
+
+---
+
+## 📬 Contacts & Connect
+
+<div align="center">
+  <a href="https://br.linkedin.com/in/gabriella-analista-cloud" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
+  <a href="mailto:cybergabe01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<br>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
