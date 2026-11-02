@@ -46,6 +46,25 @@
 &nbsp;
 &nbsp;
 
+## 📜 Certificações & Credenciais
+
+<p align="center">
+  <!-- AWS Certified Developer - Associate -->
+  <a href="https://www.credly.com/badges/7c46ce19-4275-4a4b-b1fc-1a930d19660c/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="130px" alt="AWS Certified Developer - Associate">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- AWS Certified Cloud Practitioner -->
+  <a href="https://www.credly.com/badges/e14dbb5c-5772-40b8-9eac-2ce4437ebe32/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="130px" alt="AWS Certified Cloud Practitioner">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- New Relic Verified Foundation -->
+  <a href="https://www.credential.net/187270918" target="_blank">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/187270918" width="130px" alt="New Relic Verified Foundation">
+  </a>
+</p>
+
 ## Contacts:
 
 <div> 
