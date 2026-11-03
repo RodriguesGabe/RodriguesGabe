@@ -68,19 +68,6 @@ Engenheira de Confiabilidade de Sites (SRE) e Cloud Engineer com sólida vivênc
 
 ---
 
-## 🚀 GitHub Stats
-
-<div align="center" style="margin-bottom:30px">
-  <img width=48% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RodriguesGabe&theme=radical&mode=weekly" />
-  <img width=48% align="center" src="https://github-readme-stats-git-main-RodriguesGabe.vercel.app/api/top-langs/?username=RodriguesGabe&show_icons=true&theme=radical&layout=compact" />
-</div>
-
-<div align="center">
-  <img width=80% src="https://github-readme-stats.vercel.app/api?username=RodriguesGabe&show_icons=true&theme=dracula" />
-</div>
-
----
-
 ## 📚 What will you find here?
 
 This GitHub is more than just a code repository — it's a reflection of my journey, experiences, and commitment to learning. Here's what you'll find:
