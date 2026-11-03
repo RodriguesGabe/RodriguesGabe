@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hey, I'm Gabe, a passionate DevOps & SRE Engineer!
+# Hey, I'm Gabriella, a passionate DevOps & SRE Engineer!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriella-analista-cloud/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
