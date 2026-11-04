@@ -4,7 +4,17 @@
 
 # Hey, I'm Gabriella
 
+### *SRE & Cloud Engineer*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Location-Recife,_Brazil-8F0D87?style=flat-square" alt="Location">
+  <img src="https://img.shields.io/badge/💼_Role-SRE_@_NTT_DATA-0077B5?style=flat-square" alt="Role">
+  <img src="https://img.shields.io/badge/☁️_Focus-Cloud_&_Observability-FF9900?style=flat-square" alt="Focus">
+</p>
+
 </div>
+
+---
 
 SRE at NTT DATA (remote) · AWS Certified Developer – Associate · Recife, Brazil
 I work on observability, automation and cloud reliability, and I build
@@ -18,7 +28,7 @@ public projects to share what I learn.
 
 ---
 
-## 📜 Certificações & Credenciais
+## Certificações
 
 <p align="center">
   <!-- AWS Certified Developer - Associate -->
@@ -39,7 +49,7 @@ public projects to share what I learn.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 #### Cloud & DevOps:
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
@@ -56,7 +66,7 @@ public projects to share what I learn.
 
 ---
 
-## 📚 What will you find here?
+##  What will you find here?
 
 This GitHub is more than just a code repository — it's a reflection of my journey, experiences, and commitment to learning. Here's what you'll find:
 - Real-world cloud infrastructure and automation scripts
@@ -65,7 +75,7 @@ This GitHub is more than just a code repository — it's a reflection of my jour
 
 ---
 
-## 📬 Contacts & Connect
+##  Contacts & Connect
 
 <div align="center">
 <p align="center">
